@@ -1,0 +1,22 @@
+{
+  "name": "imageproccesing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShubhamPatil919/image-processing-and-size-reduce-using-node.js.git"
+  },
+  "author": "Shubham Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShubhamPatil919/image-processing-and-size-reduce-using-node.js/issues"
+  },
+  "homepage": "https://github.com/ShubhamPatil919/image-processing-and-size-reduce-using-node.js#readme",
+  "dependencies": {
+    "jimp": "^0.12.0"
+  }
+}
